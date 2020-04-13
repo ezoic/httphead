@@ -11,7 +11,7 @@ This library contains low-level functions for scanning HTTP RFC2616 compatible h
 ## Install
 
 ```shell
-    go get github.com/gobwas/httphead
+    go get github.com/ezoic/httphead
 ```
 
 ## Example
@@ -57,7 +57,7 @@ of some key:
 
 For more usage examples please see [docs][godoc-url] or package tests.
 
-[godoc-image]: https://godoc.org/github.com/gobwas/httphead?status.svg
-[godoc-url]: https://godoc.org/github.com/gobwas/httphead
-[travis-image]: https://travis-ci.org/gobwas/httphead.svg?branch=master
-[travis-url]: https://travis-ci.org/gobwas/httphead
+[godoc-image]: https://godoc.org/github.com/ezoic/httphead?status.svg
+[godoc-url]: https://godoc.org/github.com/ezoic/httphead
+[travis-image]: https://travis-ci.org/ezoic/httphead.svg?branch=master
+[travis-url]: https://travis-ci.org/ezoic/httphead

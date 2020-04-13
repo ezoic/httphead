@@ -86,7 +86,7 @@ func ParseResponseLine(line []byte) (r ResponseLine, ok bool) {
 	} else {
 		return r, false
 	}
-	// TODO(gobwas): parse here r.Reason fot TEXT rule:
+	// TODO(ezoic): parse here r.Reason fot TEXT rule:
 	//   TEXT = <any OCTET except CTLs,
 	//           but including LWS>
 	return r, true
